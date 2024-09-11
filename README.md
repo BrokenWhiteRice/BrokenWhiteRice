@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrokenWhiteRice
-- 👀 I’m interested in Full-stack Development
+- 👀 If you're curious about my skillset and interesting work. You may contact me since most of them are set to be private.
 
 
 <!---
