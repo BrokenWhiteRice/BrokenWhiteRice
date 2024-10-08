@@ -11,8 +11,6 @@ As a Software Engineering enthusiast, I am on a journey to apply my passion for 
 - Project management: Agile, Scrum
 
 
-You can click the Preview link to take a look at your changes.
-
 
 - 👀 If you're curious about my skillset and interesting work. You may contact me since most of them are set to be private.
 
