@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrokenWhiteRice
+- 👋 Hi, I’m @Brian Ta
 
 - To begin with, if you convert my DoB to in hexadecimal, you'll get my real name instead of "Brian" (hints: 0x11 and 0x10).
 
